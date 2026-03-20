@@ -33,8 +33,10 @@ Partial Class Form1
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.Panel1 = New System.Windows.Forms.Panel()
-        Me.configuraciontlabel = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.configuraciontlabel = New System.Windows.Forms.Label()
+        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
+        Me.relok3 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
@@ -132,6 +134,7 @@ Partial Class Form1
         'Panel1
         '
         Me.Panel1.BackColor = System.Drawing.Color.DarkGray
+        Me.Panel1.Controls.Add(Me.ComboBox1)
         Me.Panel1.Controls.Add(Me.Button1)
         Me.Panel1.Controls.Add(Me.configuraciontlabel)
         Me.Panel1.Location = New System.Drawing.Point(138, 330)
@@ -139,6 +142,15 @@ Partial Class Form1
         Me.Panel1.Size = New System.Drawing.Size(215, 196)
         Me.Panel1.TabIndex = 7
         Me.Panel1.Visible = False
+        '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(14, 51)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 1
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
         '
         'configuraciontlabel
         '
@@ -151,20 +163,33 @@ Partial Class Form1
         Me.configuraciontlabel.TabIndex = 0
         Me.configuraciontlabel.Text = "configuracion"
         '
-        'Button1
+        'ComboBox1
         '
-        Me.Button1.Location = New System.Drawing.Point(14, 51)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 1
-        Me.Button1.Text = "Button1"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.ComboBox1.FormattingEnabled = True
+        Me.ComboBox1.Items.AddRange(New Object() {"rojo", "amarillo", "blanco", "azul", "verde"})
+        Me.ComboBox1.Location = New System.Drawing.Point(15, 80)
+        Me.ComboBox1.Name = "ComboBox1"
+        Me.ComboBox1.Size = New System.Drawing.Size(121, 21)
+        Me.ComboBox1.TabIndex = 8
+        '
+        'relok3
+        '
+        Me.relok3.AutoSize = True
+        Me.relok3.BackColor = System.Drawing.Color.DarkGray
+        Me.relok3.Font = New System.Drawing.Font("Palatino Linotype", 26.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.relok3.ForeColor = System.Drawing.SystemColors.Info
+        Me.relok3.Location = New System.Drawing.Point(209, 296)
+        Me.relok3.Name = "relok3"
+        Me.relok3.Size = New System.Drawing.Size(56, 48)
+        Me.relok3.TabIndex = 8
+        Me.relok3.Text = "00"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(455, 695)
+        Me.Controls.Add(Me.relok3)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.Label1)
@@ -196,4 +221,6 @@ Partial Class Form1
     Friend WithEvents Panel1 As Panel
     Friend WithEvents Button1 As Button
     Friend WithEvents configuraciontlabel As Label
+    Friend WithEvents ComboBox1 As ComboBox
+    Friend WithEvents relok3 As Label
 End Class
