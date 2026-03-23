@@ -119,5 +119,11 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\965cd27fb6f52e93c88f65f5699825c3--rabbits-bunny.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\options-icon-png-15.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
