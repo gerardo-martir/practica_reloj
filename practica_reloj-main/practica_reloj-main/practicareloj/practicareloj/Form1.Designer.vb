@@ -38,10 +38,10 @@ Partial Class Form1
         Me.configuraciontlabel = New System.Windows.Forms.Label()
         Me.relok3 = New System.Windows.Forms.Label()
         Me.Panel2 = New System.Windows.Forms.Panel()
-        Me.chrono = New System.Windows.Forms.Label()
-        Me.tempo = New System.Windows.Forms.Label()
-        Me.start = New System.Windows.Forms.Button()
         Me.reset = New System.Windows.Forms.Button()
+        Me.start = New System.Windows.Forms.Button()
+        Me.tempo = New System.Windows.Forms.Label()
+        Me.chrono = New System.Windows.Forms.Label()
         Me.Timer3 = New System.Windows.Forms.Timer(Me.components)
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -120,7 +120,7 @@ Partial Class Form1
         '
         Me.PictureBox1.Image = Global.practicareloj.My.Resources.Resources._965cd27fb6f52e93c88f65f5699825c3__rabbits_bunny
         Me.PictureBox1.ImageLocation = ""
-        Me.PictureBox1.Location = New System.Drawing.Point(-314, -21)
+        Me.PictureBox1.Location = New System.Drawing.Point(-308, -17)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(1141, 903)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
@@ -203,27 +203,14 @@ Partial Class Form1
         Me.Panel2.Size = New System.Drawing.Size(215, 206)
         Me.Panel2.TabIndex = 9
         '
-        'chrono
+        'reset
         '
-        Me.chrono.AutoSize = True
-        Me.chrono.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.chrono.ForeColor = System.Drawing.SystemColors.Info
-        Me.chrono.Location = New System.Drawing.Point(76, 14)
-        Me.chrono.Name = "chrono"
-        Me.chrono.Size = New System.Drawing.Size(96, 18)
-        Me.chrono.TabIndex = 0
-        Me.chrono.Text = "cronometro"
-        '
-        'tempo
-        '
-        Me.tempo.AutoSize = True
-        Me.tempo.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tempo.ForeColor = System.Drawing.SystemColors.Info
-        Me.tempo.Location = New System.Drawing.Point(33, 68)
-        Me.tempo.Name = "tempo"
-        Me.tempo.Size = New System.Drawing.Size(46, 31)
-        Me.tempo.TabIndex = 1
-        Me.tempo.Text = "00"
+        Me.reset.Location = New System.Drawing.Point(26, 173)
+        Me.reset.Name = "reset"
+        Me.reset.Size = New System.Drawing.Size(171, 23)
+        Me.reset.TabIndex = 3
+        Me.reset.Text = "reset"
+        Me.reset.UseVisualStyleBackColor = True
         '
         'start
         '
@@ -234,14 +221,27 @@ Partial Class Form1
         Me.start.Text = "start"
         Me.start.UseVisualStyleBackColor = True
         '
-        'reset
+        'tempo
         '
-        Me.reset.Location = New System.Drawing.Point(26, 173)
-        Me.reset.Name = "reset"
-        Me.reset.Size = New System.Drawing.Size(171, 23)
-        Me.reset.TabIndex = 3
-        Me.reset.Text = "reset"
-        Me.reset.UseVisualStyleBackColor = True
+        Me.tempo.AutoSize = True
+        Me.tempo.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tempo.ForeColor = System.Drawing.SystemColors.Info
+        Me.tempo.Location = New System.Drawing.Point(28, 78)
+        Me.tempo.Name = "tempo"
+        Me.tempo.Size = New System.Drawing.Size(169, 31)
+        Me.tempo.TabIndex = 1
+        Me.tempo.Text = "00:00:00.00"
+        '
+        'chrono
+        '
+        Me.chrono.AutoSize = True
+        Me.chrono.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.chrono.ForeColor = System.Drawing.SystemColors.Info
+        Me.chrono.Location = New System.Drawing.Point(76, 14)
+        Me.chrono.Name = "chrono"
+        Me.chrono.Size = New System.Drawing.Size(96, 18)
+        Me.chrono.TabIndex = 0
+        Me.chrono.Text = "cronometro"
         '
         'Timer3
         '

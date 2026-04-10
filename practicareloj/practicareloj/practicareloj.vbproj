@@ -128,5 +128,8 @@
   <ItemGroup>
     <None Include="Resources\chromonter.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
