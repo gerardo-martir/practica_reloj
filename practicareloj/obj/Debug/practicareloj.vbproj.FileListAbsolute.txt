@@ -1,0 +1,84 @@
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\bin\Debug\practicareloj.exe.config
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\bin\Debug\practicareloj.exe
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\bin\Debug\practicareloj.pdb
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\bin\Debug\practicareloj.xml
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\obj\Debug\practicareloj.vbprojAssemblyReference.cache
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\obj\Debug\practicareloj.Form1.resources
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\obj\Debug\practicareloj.Resources.resources
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.GenerateResource.cache
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\obj\Debug\practicareloj.exe
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\obj\Debug\practicareloj.xml
+C:\Users\win512\Documents\Gerardo 24676 4B\practicareloj\practicareloj\obj\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe.config
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Form1.resources
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Resources.resources
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (1)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe.config
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Form1.resources
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Resources.resources
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (2)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe.config
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Form1.resources
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Resources.resources
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (3)\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe.config
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Form1.resources
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Resources.resources
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (4)\practica_reloj-main\practica_reloj-main\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe.config
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Form1.resources
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Resources.resources
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (5)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe.config
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.pdb
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\bin\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Form1.resources
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.Resources.resources
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.exe
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.xml
+C:\Users\win512\Downloads\practica_reloj-main (6)\practica_reloj-main\practicareloj\practicareloj\obj\Debug\practicareloj.pdb
